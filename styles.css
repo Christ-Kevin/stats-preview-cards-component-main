@@ -82,7 +82,7 @@ header div {
     /* background and opacity */
     background-color: var(--dark-desaturated-blue);
     background-image: url(images/image-header-mobile.jpg);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     opacity: 0.5;
 
@@ -210,7 +210,7 @@ section a {
 
     header div {
         background-image: url(images/image-header-desktop.jpg);
-        background-size: contain;
+        background-size: cover;
         background-repeat: no-repeat;
         display: flex;
         flex: 1 0 auto;
