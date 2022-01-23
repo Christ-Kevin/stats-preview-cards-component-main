@@ -1,28 +1,55 @@
-# Frontend Mentor - Stats preview card component
+# Frontend Mentor - Stats preview card component solution
 
-![Design preview for the Stats preview card component coding challenge](./screenshot.jpg)
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+## Table of contents
 
-## The challenge
-
-The challenge is to build out a card component and get it looking as close to the frontendmentor's design as possible.
-
-## Where to find everything
-
-My task is to build out the project to the designs inside the `/design` folder. I will find both a mobile and a desktop version of the design. 
-
-The designs are in JPG static format. Using JPGs will mean that i'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
-
-I will find all the required assets in the `/images` folder. The assets are already optimized.
-
-There is also a `style-guide.md` file containing the information i'll need, such as color palette and fonts.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
 
+## Overview 
 
-## Got feedback for us?
+### The challenge
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+Users should be able to:
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+- View the optimal layout depending on their device's screen size
 
-**Have fun building!** 🚀
+### Screenshot
+
+![](./screenshot.jpg)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+### What I learned
+
+- Concerning the HTML part, i fill confident about my DOM. I fill like i'm making less mistakes and from now i always try to test the HTML before and while doing the CSS-part
+- Concerning CSS, i found out that a block can contain a background-image and a background-content and how to exclude the footer from the challenge so that screen users can more focus on my challenge and not on the footer
+- It's important to set the position of a container to relativ before setting the position of the item to absolute to keep the item inside the container
+### Continued development
+
+- responsive images
+
+## Author
+
+- Website - [Christ Touga](https://www.your-site.com)
+- Frontend Mentor - [@Christ-Kevin](https://www.frontendmentor.io/profile/Christ-Kevin)
+- Twitter - [@WatatK](https://www.twitter.com/WatatK)
+
