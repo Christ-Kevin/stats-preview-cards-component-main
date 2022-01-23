@@ -132,7 +132,7 @@ section a {
 @media only screen and (min-width: 47em) {
     body {
         /* size */
-        width: 90%;
+        width: 85%;
 
         /* space */
         margin: 20% auto;
