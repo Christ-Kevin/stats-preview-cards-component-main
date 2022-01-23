@@ -128,7 +128,7 @@ section a {
     color: hsl(228, 45%, 44%);
 }
 
-@media only screen and (min-width: 54em) {
+@media only screen and (min-width: 47em) {
     body {
         /* size */
         width: 90%;
@@ -152,7 +152,7 @@ section a {
         border-bottom-right-radius: 1rem;
 
         border-top-right-radius: 1rem;
-        border: 1px solid red;
+
 
         /* flex */
         display: flex;
