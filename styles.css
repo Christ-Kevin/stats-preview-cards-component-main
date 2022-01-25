@@ -206,6 +206,7 @@ section a {
 
     section:last-of-type p {
         padding: 0 1rem;
+        font-size: calc(0.8rem + 0.5vw);
     }
 
     header div {
